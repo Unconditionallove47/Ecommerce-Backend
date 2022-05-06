@@ -1,3 +1,70 @@
+Ecommerce-Backend homework by Kalif Purce
+
+Back End E-Commerce Site
+Table of Contents:
+
+    Description
+    Installation
+    Usage
+    Contributons
+    Tests
+    License
+    GitHub
+    LinkedIn
+    Email
+
+Description
+
+Back end side of a basic ecommerce style database
+
+
+Installation
+
+NPM i
+
+Usage
+
+To use this application, run "Node server.js" in terminal
+
+
+Contributions
+
+Tests
+
+To run tests, please use "npm run test".
+
+License
+
+License: MIT.
+
+GitHub
+
+www.github.com/Unconditionallove47
+LinkedIn
+
+www.linkedin.com/in/kalifp/
+
+Email
+
+Kalifpurce@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 13 Object-Relational Mapping (ORM): E-Commerce Back End
 
 ## Your Task
